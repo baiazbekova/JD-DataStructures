@@ -34,6 +34,9 @@ public class MyLinkedList {
             }
             size++;
         }
+
+
+
     public void insertInOrder(int item) {
         var node = new Node(item);
         Node current;
